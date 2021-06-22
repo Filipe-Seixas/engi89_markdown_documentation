@@ -29,4 +29,6 @@ python block code (```)
 
 **Setting the branch to -M main and adding the remote is only to be done first time**
 
+[Markdowns Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
 #### Moving on to Linux basics
